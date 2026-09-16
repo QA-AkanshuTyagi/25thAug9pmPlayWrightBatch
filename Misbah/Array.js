@@ -12,6 +12,4 @@ Arrays are dynamic in JavaScript
 let data = [10, "Hello", true, 25.5] ;  */
 
 
-let a = 45
-let b = 24
-console.log(a+b);
+l
