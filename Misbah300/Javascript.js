@@ -57,3 +57,10 @@ const o2= "oxygen";
 console.log(o2);
 
 
+// var A=12
+a = Good 
+a = 45 
+// let c = 25
+a = Bad 
+// const b = 30
+End 
