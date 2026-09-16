@@ -12,7 +12,7 @@ Console.log(a%b) */
 //Number, String, Boolean, Null- Empty_Unknown value, Undefined- No value
 // Type coercion basics- Loosely typed, convert types automatically in many cases
 //Examples
-// 5+3.2=> 8.2
+// 5+3.2=> 8.2n
 // 5 is int and 3.2 is float, output will be in float
 //"5"-3=> 2
 //"5" is string and 3 is int, output will be in int
@@ -36,7 +36,7 @@ console.log(false+5);
 console.log("3"-true);
 console.log("3"+true);
 console.log(true+"3");
-
+            
 // declare variables and check their types using typesof
 let age= 30;
 console.log(typeof age); //output-number
