@@ -9,5 +9,5 @@ console.log(flag)
 }
     while (true)
  {
-console.log("I am iside loop")        
+console.log("I am inside loop")        
     } 
