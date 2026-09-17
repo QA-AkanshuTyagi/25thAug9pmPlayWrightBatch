@@ -13,3 +13,21 @@ console.log(Object.keys(studentdata));
 
 
 console.log(Object.values(studentdata));
+
+
+let data = {
+    fname: "kalpna",
+    Lname: "singh",
+    age: 20,
+
+}
+console.log(data.fname);
+console.log(data["Lname"]);
+
+
+
+console.log(Object.keys(data));
+
+
+console.log(Object.values(data));
+
