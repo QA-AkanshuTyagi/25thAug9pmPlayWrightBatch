@@ -39,3 +39,15 @@ console.log(numb)
 // const: doesnt allow to redeclare and reassign
 const year= 2026;
 console.log(year)
+
+// function: function is a block where you have to write the functionality that you want to perform.
+
+function loginButtonClick(){
+
+
+}
+
+function enterUserName(){
+
+    
+}
