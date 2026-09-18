@@ -6,7 +6,7 @@ console.log(a+b);
 
 
 //variable declaration keyword: var, let, const
-// define on the basis of two parameters 1. reassign 2. redeclaration
+// define on the basis of two parameters 1. reassign and redeclaration 2. scope.
 //scope: where can we use, it is two type function and block.
 
 
