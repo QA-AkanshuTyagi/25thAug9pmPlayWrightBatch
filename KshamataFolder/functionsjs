@@ -1,0 +1,15 @@
+let studentdata = {
+    fname: "kalpna",
+    Lname: "singh",
+    age: 20,
+
+}
+console.log(studentdata.fname);
+console.log(studentdata["Lname"]);
+
+
+
+console.log(Object.keys(studentdata));
+
+
+console.log(Object.values(studentdata));
