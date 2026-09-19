@@ -50,8 +50,8 @@ function details (){
      
     if (true){
         
-        var g=7;  // has been printed because it is function scope, it can be used from outside block.
-        let h=8;  // has not been printed because it is block scope,
+        var g=7;  // printed because it is function scope, it can be used from outside block.
+        let h=8;  // has not printed because it is block scope,
         const i=9;  // block scope cannot be used outside from block.
     }
 console.log(g) // printed because var is funtion scope, it can be used outside from block.
