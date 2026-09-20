@@ -6,6 +6,7 @@ b=12;
 console.log(a+b)
 console.log(a*b)
 console.log(a-b)
+console.log("hello 8pm")
 
 
 
