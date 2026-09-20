@@ -32,15 +32,38 @@ const  = 3000;// function scope
 
 // LOOPS 
 //sytax
-let name = "deepak"
- for(let i=1;i<=100;i++){
-console.log("deepak")
- }
- let a= 10;
- let b = 20;
- console.log(a+b)
- console.log(a-b)
- console.log(a*b)
- console.log(a/b)
- console.log(a**b)
- console.log(b%a)
+// let name = "deepak"
+//  for(let i=1;i<=100;i++){
+// console.log("deepak")
+//  }
+
+ //operators
+//  var a= 10;
+
+//  b: String = '10'
+//  console.log(a+b)
+//  console.log(a-b)
+//  console.log(a*b)
+//  console.log(a/b)
+//  console.log(a**b)
+//  console.log(b%a)
+
+ //assignment operator
+//  console.log(a+=5);
+//  console.log(a-=3);
+//  console.log(a*=2);
+//  console.log(a/=4);
+
+ //comparison operator
+ a=10;
+ b=10;
+//  console.log(a>b)
+//  console.log(a<b)
+//  console.log(a>=b)
+//  console.log(a<=b)
+//  console.log(a==b)
+//  console.log(a!=b)
+//  console.log(a===b)
+//  console.log(a!==b)
+let name = undefined;
+console.log()
