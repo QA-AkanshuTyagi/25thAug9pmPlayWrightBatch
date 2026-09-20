@@ -1,4 +1,4 @@
-// SCOPE - scope determines the accessibilty and visibility of variablein different parts of code..
+// SCOPE - scope determines the accessibilty and visibility of variable in different parts of code..
 // types-: 
 // "function scope"  
 // "block scope"
