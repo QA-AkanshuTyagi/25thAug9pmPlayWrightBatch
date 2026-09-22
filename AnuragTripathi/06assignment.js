@@ -52,10 +52,10 @@ console.log(a<=b);
    
 
 //5)- command to fetch all the local repositories
-// git fetch -a
+// git branch -a
 
 //6)- command to fetch all the remote repositories
-// git fetch -r
+// git branch
 
 //7)- "git pull" command update your local repository with the latest changes 
 //    from the remote repository. 
