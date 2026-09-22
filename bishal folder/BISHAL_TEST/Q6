@@ -1,0 +1,11 @@
+Q.6 Command to view all local branches
+
+Command:
+git branch
+
+Explanation:
+The git branch command is used to view all local branches
+in the current Git repository.
+
+Example:
+git branch

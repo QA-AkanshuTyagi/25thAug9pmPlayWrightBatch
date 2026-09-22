@@ -1,0 +1,1 @@
+"Git architecture consists mainly of the Working Directory, Staging Area, Local Repository and Remote Repository. We modify code in the working directory, stage it using git add, save it using git commit, and send it to the remote repository using git push."

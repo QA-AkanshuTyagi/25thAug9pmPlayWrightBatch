@@ -1,0 +1,15 @@
+Q.7 Difference between git pull and git clone
+
+git clone:
+It is used to copy a remote repository to our local
+machine for the first time.
+
+Command:
+git clone <repository-url>
+
+git pull:
+It is used to get the latest changes from the remote
+repository into our existing local repository.
+
+Command:
+git pull origin main

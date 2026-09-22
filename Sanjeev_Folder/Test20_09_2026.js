@@ -2,7 +2,7 @@
 
 console.log("Sanjeev Kumar Sharma");
 
-for (let i=100; i>=1; i--) {       //   Condition of Printing 1-100 numbers in reverse order
+for (let i=100; i>=1; i--) {     //   Condition of Printing 1-100 numbers in reverse order
 
 console.log(i);
 }

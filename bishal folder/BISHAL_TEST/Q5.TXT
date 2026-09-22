@@ -1,0 +1,3 @@
+Command to fetch all remote repositories
+git fetch --all
+"git fetch --all is used to fetch updates from all remote repositories without merging them into my current branch."
