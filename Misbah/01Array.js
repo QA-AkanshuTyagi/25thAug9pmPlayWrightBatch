@@ -10,3 +10,6 @@ Can store multiple values
 Can store different data types
 Arrays are dynamic in JavaScript
 let data = [10, "Hello", true, 25.5] ;  */
+var a =44
+a=41
+console.log (a+a);
