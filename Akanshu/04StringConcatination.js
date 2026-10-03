@@ -15,5 +15,7 @@ console.log(e)
 console.log(f)
 console.log(g)
 console.log(h)
+console.log(b+e+"hello plus")
+console.log(b,e,"hello comma")
+console.log(`hello guys  ${e}`)
 
-console.log(``)
