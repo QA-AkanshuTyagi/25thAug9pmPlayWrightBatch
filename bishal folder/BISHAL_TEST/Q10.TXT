@@ -1,0 +1,1 @@
+"Branching means creating a separate line of development from the main branch. It allows us to work on a feature independently. I can create a branch using git switch -c feature-login, make changes, commit them, and push the branch using git push -u origin feature-login."
