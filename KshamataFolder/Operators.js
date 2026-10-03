@@ -13,4 +13,20 @@ for (let eachname of names){
 
 
 
-
+if(false){
+    console.log("1");
+}
+    if (false){
+        console.log("2");
+    }
+    if (false){
+        console.log("3");
+    }   
+if (false){
+    console.log("4");
+}   
+if (true){
+    console.log("5");
+}else{
+    console.log("6");
+}
