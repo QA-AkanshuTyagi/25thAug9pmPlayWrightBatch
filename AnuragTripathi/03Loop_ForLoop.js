@@ -12,7 +12,7 @@
 //      '3'
 //      }
 
-// 1- initialization and iplementation;
+// 1- initialization and declaration;
 // 2- condition;
 // 3- implementation or logics;
 // 4- incremental or decremental;

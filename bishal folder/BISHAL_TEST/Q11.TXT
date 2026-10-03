@@ -1,0 +1,5 @@
+
+
+Merge is used in Git to **combine the changes of one branch with another branch**. For example, we can merge a feature branch into the main branch.
+
+A Pull Request is a **request on GitHub to merge changes from one branch into another branch**. It allows other team members to review the code before it is merged.
