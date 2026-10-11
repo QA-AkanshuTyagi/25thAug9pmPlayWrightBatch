@@ -14,4 +14,5 @@ console.log(Reports)*/
     console.log(key)} */
     
     for (let value of Object.values(Reports)) {
+    console.log(value)}
     
