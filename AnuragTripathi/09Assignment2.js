@@ -21,3 +21,12 @@ for (let num = 2; num <= 50; num++) {
         console.log(num);
     }
 }
+
+// writing a code for factorial of a number
+let number = 5;
+let factorial = 1;
+for (let i = 1; i <= number; i++) {
+    factorial *= i;
+}
+console.log(factorial);
+
