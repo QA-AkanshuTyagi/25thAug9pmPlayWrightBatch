@@ -1,10 +1,12 @@
 let biodata = {
+  url: "https://www.fb.com",
   fName: ["akanshu"],
   Lname: "Tyagi",
   age: 31,
   Occupation: "Pvt job",
-  fees:25000
+  fees: 25000,
 };
+console.log(biodata.fName);
 console.log(biodata["fname"]);
 console.log(Object.values(biodata));
 console.log(Object.keys(biodata));
