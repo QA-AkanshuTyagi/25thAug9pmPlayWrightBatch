@@ -17,8 +17,4 @@ for (let eachnames of names){
     console.log(eachnames);
 }
 
-
-
-
 console.log(a,b,d,f,c,e);
-

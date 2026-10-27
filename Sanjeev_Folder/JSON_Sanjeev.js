@@ -1,5 +1,6 @@
-
 // Object in JavaScript
+
+// For In Loop in JavaScript
 
 
 let boidata = {
@@ -9,7 +10,7 @@ let boidata = {
     age: 29,
     City: "Noida",
     Occupation: "Software Tester"
-};
+}
 
 console.log(boidata);
 console.log(Object.keys(boidata));
@@ -18,7 +19,4 @@ console.log(Object.values(boidata));
 for (let bio in boidata) {
     console.log(bio, ":", boidata[bio]);
 }
-
-
-
 

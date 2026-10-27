@@ -26,7 +26,3 @@ console.log(a*c);
 console.log(c/a);
 console.log(b/a);
 
-
-
-
-
