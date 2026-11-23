@@ -1,4 +1,4 @@
-//Test questions:
+   //Test questions:
 
 //-1 Please WAP to print numbers from 1 to 100 in reverse order.
 //-2 Difference between initialization and Declaration. Explain using write program.
