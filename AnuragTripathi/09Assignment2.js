@@ -154,3 +154,11 @@ for (let i = 1; i <= 5; i++) {
     }
     console.log(pattern);
 }
+
+//Q27. Write a function to add two numbers.
+let num1= 10;
+let num2= 5;
+function addNumbers(num1, num2) {
+    return num1 + num2;
+}   
+console.log(addNumbers(num1, num2)); // Output: 15
