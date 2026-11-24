@@ -22,3 +22,16 @@ for(let name=1; name<=10; name++){
     console.log("Agori")
 }
 
+//WHILE LOOP
+let i = 1;
+while (i <= 10) {
+    console.log(i);
+    i++;
+}
+
+//DO WHILE LOOP
+let j = 1;
+do {
+    console.log(j);
+    j++;
+} while (j <= 10);
